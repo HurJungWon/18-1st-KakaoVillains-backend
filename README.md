@@ -8,7 +8,7 @@
 - 개발인원 : 프론트엔드 4명, 백엔드 2명
 
 ## 적용 기술
-> - Back-End : Python, Django web framework, Bcrypt, , JWT, Transaction, MySQL
+> - Back-End : Python, Django web framework, Bcrypt, , JWT, MySQL
 > - Common : AWS(EC2,RDS), RESTful API
 
 ## 내가 구현한 기능
